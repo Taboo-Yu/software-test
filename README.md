@@ -5,8 +5,10 @@
  1.下载
    - [官方下载](https://www.python.org/)
    - [Anaconda整合版下载](https://www.anaconda.com/)
+   
  2.安装
    - 根据图形化安装界面提示进行安装
+   
  3.配置
    - 在环境变量中把你需要的Python路径添加进Path | ***添加PythonPath/Script可以方便pip命令运行***
 
