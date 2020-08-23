@@ -1,6 +1,15 @@
 # software-test
 学习笔记:软件测试相关，测试用例，测试工具等存储
 
+# Python环境搭建
+ 1.下载
+   - [官方下载](https://www.python.org/)
+   - [Anaconda整合版下载](https://www.anaconda.com/)
+ 2.安装
+   - 根据图形化安装界面提示进行安装
+ 3.配置
+   - 在环境变量中把你需要的Python路径添加进Path | ***添加PythonPath/Script可以方便pip命令运行***
+
 # 测试工具
   ## [Selenium](http://docs.seleniumhq.org/)
   Selenium是测试自动化的家喻户晓的名字。它被认为是Web应用程序用户界面自动化测试的行业标准。
