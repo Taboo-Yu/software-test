@@ -2,7 +2,7 @@
 学习笔记:软件测试相关，测试用例，测试工具等存储
 
 # 测试工具
-  ## Selenium [Selenium](http://docs.seleniumhq.org/)
+  ## [Selenium](http://docs.seleniumhq.org/)
   Selenium是测试自动化的家喻户晓的名字。它被认为是Web应用程序用户界面自动化测试的行业标准。
   根据"测试自动化挑战调查"显示，十分之九的测试人员中有近九位在其项目中使用或曾经使用过硒。
 
