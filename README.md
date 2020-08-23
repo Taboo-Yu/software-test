@@ -63,3 +63,9 @@
   * 支持与CI工具（例如Jenkins）集成。JMeter通常用作CI和DevOps工具链的一部分
   
    许可证：开源
+   ## [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
+   LoadRunner 是一种预测系统行为和性能的负载测试工具。
+   通过以模拟上千万用户实施并发负载及实时性能监测的方式来确认和查找问题，LoadRunner 能够对整个企业架构进行测试。
+   通过使用LoadRunner ，企业能最大限度地缩短测试时间，优化性能和加速应用系统的发布周期。
+   
+   许可证：商用
