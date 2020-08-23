@@ -8,7 +8,7 @@
 
   对于具有编程和脚本编写经验和技能的开发人员和测试人员，Selenium提供了许多其他测试自动化工具和框架所不具备的灵活性。
   用户可以使用多种语言（例如Java，Groovy，Python，C＃，php，Ruby和Perl）编写测试脚本，这些脚本可以在多种系统环境（Windows，Mac，Linux）和浏览器（Chrome，Firefox，IE和 无头浏览器）。
-  ## Katlon Studio
+  ## [Katlon Studio](https://www.katalon.com/)
   Katalon Studio是功能强大且全面的自动化解决方案，用于测试API，Web，移动和桌面应用程序测试。
   它还为这些类型的测试提供了丰富的功能集，并支持包括Windows，macOS和Linux在内的多个平台。
 
@@ -23,7 +23,7 @@
  * 可以通过Katalon Store上的插件扩展测试功能，深入了解Katalon TestOps上的报告
 
   许可证：免费
-  ## UTF
+  ## [UFT](https://www.microfocus.com/zh-cn/products/uft-one/overview)
   UFT是测试桌面，Web和移动应用程序的流行商业工具。它已扩展为包括一组用于API测试的功能。
   通过为被测目标应用程序（AUT）支持多个平台，UFT提供了一种方便的选择来测试可在台式机，Web和移动设备上运行的AUT。
   UFT为智能对象检测，基于图像的对象检测和校正提供了几种高级功能。
@@ -35,7 +35,7 @@
  * 测试的动作，活动和参数可以在图表中可视化
 
   许可证：每年3,200美元起。
-   ## Postman
+   ## [Postman](https://www.postman.com/)
    Postman是专为API测试设计的另一种自动化工具。
    用户可以在Mac，Linux，Windows上以浏览器扩展或桌面应用程序的形式安装此工具。
    它不仅在用于API测试自动化的测试人员中很流行，而且在使用该工具开发和测试API的开发人员中也很流行。
@@ -50,7 +50,7 @@
   * 请求和应答者可以打包并与团队成员共享
 
    执照：商业
-   ## Apache Jmeter
+   ## [Apache Jmeter](https://jmeter.apache.org/)
    JMeter是设计用于测试加载和性能测量的开源工具-JMeter的两个功能是众所周知的。
    但是，该工具现在也用于API和服务测试，尤其是API性能。
    JMeter是第三种最受欢迎的测试自动化工具，在"测试自动化挑战"调查中有25％的受访者引用了JMeter的信息。
@@ -61,4 +61,5 @@
   * 测试结果可以重播
   * 支持CSV文件来设置API参数的值
   * 支持与CI工具（例如Jenkins）集成。JMeter通常用作CI和DevOps工具链的一部分
-  * 许可证：开源
+  
+   许可证：开源
