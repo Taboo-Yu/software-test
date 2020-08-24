@@ -88,3 +88,4 @@
    # 测试方法
    
    ## [单元测试](https://github.com/Taboo-Yu/software-test/tree/master/%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+   ## [自动化测试](https://github.com/Taboo-Yu/software-test/tree/master/%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95)
