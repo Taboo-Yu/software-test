@@ -80,3 +80,4 @@
    通过使用LoadRunner ，企业能最大限度地缩短测试时间，优化性能和加速应用系统的发布周期。
    
    许可证：商用
+   ## ["好的测试用例设计"](https://github.com/Taboo-Yu/software-test/blob/master/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B/README.md)
